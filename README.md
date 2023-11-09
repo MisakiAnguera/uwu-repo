@@ -8,7 +8,7 @@
 
 `cd uwu-repo`
 
-`conda env create --file environment.uwuenv.yml`
+`conda env create --file environment-uwuenv.yml`
 
 ## how to run the code
 
