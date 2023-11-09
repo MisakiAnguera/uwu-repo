@@ -16,4 +16,4 @@
 
 `python3 script_samply.py`
 
-`conda deactivate uwuenv`
+`conda deactivate`
